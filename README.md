@@ -1,5 +1,5 @@
 # theindigolove
-A Bhagvatgeeta App which Fetches from APIs with Following Features 
+A BhagvatGeeta App which Fetches Data(i.e- Chapters and Verses)from APIs with Following Features 
 1. 300 Seconds Session Security
 2. Impressive UI work
 3. Share Verse Feature
